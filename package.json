@@ -4,7 +4,7 @@
   "description": "Simple CI/CD project with Jest",
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "devDependencies": {
     "jest": "^29.7.0"
