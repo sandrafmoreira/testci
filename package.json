@@ -2,9 +2,8 @@
   "name": "ci-demo",
   "version": "1.0.0",
   "description": "Simple CI/CD project with Jest",
-  "type": "module",
   "scripts": {
-    "test": "npx jest"
+    "test": "jest"
   },
   "devDependencies": {
     "jest": "^29.7.0"
