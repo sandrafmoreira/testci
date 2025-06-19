@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple CI/CD project with Jest",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "devDependencies": {
     "jest": "^29.7.0"
